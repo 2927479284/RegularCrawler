@@ -1,0 +1,17 @@
+server:
+  port: 8082
+
+
+#http://lzizy.net ??????????
+#http://xinlangzy.com ??????????
+#http://wujinzy.com ?? ??? ????
+movies:
+  url: http://lzizy.net
+  url1: http://xinlangzy.com
+  url2: http://wujinzy.com
+spring:
+  redis:
+    host: 43.143.45.182
+    password: xiaoyong66
+    port: 6379
+
